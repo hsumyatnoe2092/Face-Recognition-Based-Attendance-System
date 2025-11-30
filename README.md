@@ -1,3 +1,5 @@
+Here's a README template for your "Face Recognition Based Attendance System" project, tailored for a third-year AI project:
+
 Face Recognition Based Attendance System
 Overview
 
